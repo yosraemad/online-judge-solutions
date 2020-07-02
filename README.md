@@ -1,2 +1,2 @@
-# pseudo-random-numbers
-Online judge uniform generator solution (#408)
+#Online Judge Solutions
+these are my solutions from problems in online judge
